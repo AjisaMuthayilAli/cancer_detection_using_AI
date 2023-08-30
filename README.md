@@ -1,2 +1,3 @@
-# cancer_image_detection_AI_model
-This lab shows the accurate detection of cancerous tissue from pathological images using Keras and Tensorflow
+# Cancer detection using Artificial Antelligence (AI)
+Lab1: detection of cancerous tissue from pathological images using Keras and Tensorflow
+Lab2: detection of genomic variants using Pytorch
